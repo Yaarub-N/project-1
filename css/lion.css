@@ -194,6 +194,7 @@ header .container .links ul li:not(:last-child) a {
 .landing {
     background-image: linear-gradient(to top, #75abb242, #93cac500), url(landing.jpg);
     background-size: cover;
+    width:100%;
     height: calc(100vh - 68.4px);
     position: relative;
 }
